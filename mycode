@@ -1,4 +1,8 @@
 Print ("Hello")
 Scan hi 
+a=5;
+b=6;
+c=a+b;
+print ("C");
 
 
